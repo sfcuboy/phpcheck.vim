@@ -1,0 +1,1 @@
+# phpcheck.vim
