@@ -3,5 +3,6 @@
 
 ```bash
 echo "let g:PHP_SYNTAX_CHECK_BIN = '{你的php二进制文件路径}'">>~/.vimrc
+mkdir -p ~/.vim/plugin
 cp phpcheck.vim ~/.vim/plugin/
 ```
